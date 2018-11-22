@@ -13,9 +13,9 @@ This is the first time i had a project in school in programming class. The goal 
 ```sh
 $ git clone https://github.com/MRavantti/Soda-Crate.git
 ```
-- start SodaCrate.sln with Visual Studio(Mac os)
+- start SodaCrate.sln with Visual Studio
 
-- run the program with F5(Windows), &#8984; + &crarr;
+- run the program with F5(Windows), &#8984; + &crarr; (Mac os)
 
 - Enjoy the The Soda Crate!
 
