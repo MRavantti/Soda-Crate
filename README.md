@@ -13,7 +13,7 @@ This is the first time i had a project in school in programming class. The goal 
 ```sh
 $ git clone https://github.com/MRavantti/Soda-Crate.git
 ```
-- Open the repo with Visual Studio
+- start SodaCrate.sln with Visual Studio(Mac os)
 
 - run the program with F5(Windows), &#8984; + &crarr;
 
